@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #e11364;
+    padding: 80px;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
+
+
+.container-title {
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    font-weight: 700;
+    font-size: 1.6rem;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.title-juegos {
+    background-color: #bc105c;
+    width: 99%;
+    display: flex;
+    justify-content: center;
+}
+
+span {
+    text-rendering: repeat;
+}
+
+.container-principal {
+    background-color: #bc105c;
+
+}
+
+h2 {
+    color: aliceblue;
+    font-weight: 700;
+    padding: 20px;
+}
+
+h3 {
+    color: rgb(90, 14, 49);
+    text-align: end;
+    margin: 8px;
+}
+
+.container-mario-kart {
+    background-color: aliceblue;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+
+img {
+    width: 100%;
+    padding: 8px;
+}
+
+
+.container-mortal-kombat {
+    background-color: aliceblue;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    margin: 10px;
+    border-radius: 10px;
+    margin-top: 24px;
+}
+
+.button-buy {
+    text-decoration: none;
+    color: aliceblue;
+    background: green;
+    border: 2px solid green;
+    box-shadow: 2px 2px greenyellow;
+    border-radius: 4px;
+}
+
+.containet-button {
+    display: flex;
+    justify-content: center;
+    padding: 8px;
+}
+
+p {
+    text-align: justify;
+    margin: 10px;
+}
+
+hr {
+    border: none;
+    border-top: 2px dotted rgb(90, 14, 49);
+    margin: 10px;
+  }
+
+  .containet-button-home {
+    display: flex;
+    justify-content: center;
+    padding: 8px;
+  }
+
+  .button-home {
+    text-decoration: none;
+    color: aliceblue;
+    background: green;
+    border: 2px solid green;
+    box-shadow: 2px 2px greenyellow;
+    border-radius: 4px;
+  }
+
+  .button-buy:hover {
+    background: rgb(90, 14, 49);
+    border: 2px solid rgb(90, 14, 49);
+    box-shadow: 2px 2px rgb(165, 18, 104);
+  }
+
+  .button-home:hover {
+    background: rgb(90, 14, 49);
+    border: 2px solid rgb(90, 14, 49);
+    box-shadow: 2px 2px rgb(165, 18, 104);
+  }
+
+
