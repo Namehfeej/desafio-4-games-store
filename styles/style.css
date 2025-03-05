@@ -116,6 +116,21 @@ hr {
     margin-top: 0px;
   }
 
+  footer {
+    background-color: #e272a6;
+    width: 100%;
+    border-radius: 4px;
+    margin-top: 20px;
+  }
+
+  .footer-dev p {
+    text-align: center;
+    font-weight: bold;
+    color: aliceblue;
+    padding: 18px;
+    font-size: 1rem;
+  }
+
   .containet-button-home {
     display: flex;
     justify-content: center;
