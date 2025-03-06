@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Inline:opsz,wght@10..72,100..900&family=Press+Start+2P&family=Gruppo&family=Orbitron:wght@400..900&family=Quantico:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 
+
 * {
   margin: 0;
   padding: 0;
@@ -31,6 +32,7 @@
   font-family: "Press Start 2P", system-ui;
   font-weight: 400;
   font-style: normal;
+  margin-left: 10px;
 }
 
 .logo-navbar {
@@ -49,6 +51,7 @@ a {
   border: 2px solid rgb(90, 14, 49);
   box-shadow: 2px 2px rgb(165, 18, 104);
   cursor: pointer;
+  border-radius: 4px;
 }
 
 
@@ -410,4 +413,5 @@ footer {
   justify-content: flex-start;
   height: 480px;
 }
+
 
