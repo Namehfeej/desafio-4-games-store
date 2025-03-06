@@ -18,7 +18,7 @@ body {
     justify-content: center;
     justify-items: center;
     align-items: center;
-    margin-top: -20px;
+    margin-top: -50px;
 }
 
 
@@ -151,6 +151,11 @@ hr {
     border: 2px solid green;
     box-shadow: 2px 2px greenyellow;
     border-radius: 4px;
+  }
+
+  .containet-button-home img {
+    width: 30px;
+    height: 30px;
   }
 
   .button-buy:hover {
