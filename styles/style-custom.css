@@ -363,6 +363,13 @@ footer {
   border-radius: 12px;
 }
 
+#container-mariokart iframe {
+  width: 100%;
+  height: 300px;
+  border-radius: 12px;
+  margin-top: 10px;
+}
+
 #container-mariokart h3 {
   margin: 0;
   padding: 0;
@@ -397,6 +404,13 @@ footer {
   width: 100%;
   height: 300px;
   border-radius: 12px;
+}
+
+#container-mortalkombat iframe {
+  width: 100%;
+  height: 300px;
+  border-radius: 12px;
+  margin-top: 10px;
 }
 
 #container-mortalkombat h3 {

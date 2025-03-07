@@ -170,4 +170,8 @@ hr {
     box-shadow: 2px 2px rgb(165, 18, 104);
   }
 
+  .trailer-videogame {
+    visibility: hidden;
+    margin-bottom: -380px;
+  }
 
